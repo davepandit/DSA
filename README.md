@@ -1,0 +1,1 @@
+## This repo is made so that the questions that I solve on a daily basis can be revisited when I need. If u are someone else, I mean other than davepandit then feel free to have a look on the folders and can find some question that excite u.
